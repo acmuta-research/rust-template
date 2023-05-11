@@ -52,5 +52,3 @@ Open your favorite terminal and clone this locally.
 - Generate mdBook docs for crate: `mdbook build`
 - Run security audits: `cargo audit` (requires installing [`cargo-audit`](https://crates.io/crates/cargo-audit) locally)
 - Lint commit messages: `npm run lint:commit` (requires installing [`commitlint`](https://commitlint.js.org/#/) locally with `npm install`)
-
-----
