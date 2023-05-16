@@ -15,10 +15,14 @@ exclude = [
 	".devcontainer",
 	".github",
 	".vscode",
+	".idea",
 	"deny.toml",
 	".commitlintrc.json",
 	"package.json",
 	"package-lock.json",
+	"fuzz",
+	"book",
+	"benches",
 ]
 
 [dev-dependencies]
